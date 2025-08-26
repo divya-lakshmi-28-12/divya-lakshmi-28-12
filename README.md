@@ -9,7 +9,7 @@ Passionate about building **scalable data pipelines, cloud migrations, and analy
 - Data Engineering, Cloud Platforms (Snowflake, GCP, Azure)  
 - Data Science & Machine Learning (business-driven applications)  
 - Real-time Data Streaming (Kafka, Spark)  
-- Data Governance & Compliance (GDPR, security frameworks)  
+- Data Governance & Compliance   
 
 ---
 
@@ -21,14 +21,7 @@ Passionate about building **scalable data pipelines, cloud migrations, and analy
 **Practices:** ETL/ELT, Data Modeling, Lakehouse Architecture, Data Governance  
 
 ---
-
-## 📂 Featured Projects
-🔹 [Snowflake Cost Optimization](https://github.com/yourusername/snowflake-cost-optimizer) – Automated warehouse monitoring & optimization that cut costs by ~30%  
-🔹 [Data Pipeline Automation](https://github.com/yourusername/data-pipeline-automation) – End-to-end ELT pipeline with Airflow + Spark  
-🔹 [Kafka Streaming Demo](https://github.com/yourusername/kafka-streaming) – Real-time streaming architecture for processing large-scale events  
-🔹 [GDPR-Compliant Data Framework](https://github.com/yourusername/data-governance-framework) – Framework for managing data privacy & compliance  
-
----
+ 
 
 ## 📜 Certifications
 - 🏅 SnowPro Core Certified  
@@ -38,9 +31,9 @@ Passionate about building **scalable data pipelines, cloud migrations, and analy
 ---
 
 ## 🌱 Currently Learning
-- Advanced Data Modeling with dbt  
 - Data Lakehouse Architectures  
-- German Language (A1 → B1 for EU relocation readiness)  
+- German Language (A1 → B1 for EU relocation readiness)
+- Power BI 
 
 ---
 
