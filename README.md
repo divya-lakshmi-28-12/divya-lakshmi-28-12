@@ -15,7 +15,7 @@ Passionate about building **scalable data pipelines, cloud migrations, and analy
 
 ## 🛠️ Tech Stack
 **Cloud & Data Platforms:** Snowflake, GCP (BigQuery, Dataproc, Pub/Sub), Azure Data Factory, IBM DataStage  
-**Tools & Frameworks:** Apache Airflow, DBT, Matillion, Kafka, Spark, CI/CD, Git  
+**Tools & Frameworks:** Apache Airflow,  Matillion, Kafka, Spark, CI/CD, Git  
 **Programming:** Python, SQL  
 **Databases:** Postgres, DB2  
 **Practices:** ETL/ELT, Data Modeling, Lakehouse Architecture, Data Governance  
